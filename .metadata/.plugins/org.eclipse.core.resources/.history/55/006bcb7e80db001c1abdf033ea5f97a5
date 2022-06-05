@@ -1,0 +1,5 @@
+package com.springDI;
+
+public class Buyer {
+
+}
